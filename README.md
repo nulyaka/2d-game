@@ -5,7 +5,7 @@
 ##### 2) Move to directory in cmd and type: "make" - to compile all the files.
 ##### 3) Type "make run" - to run the game.
 
-##### Use 'w','d','s','a' to move helicopter around, land it on next airstrip without being shot down
+##### 4) Use 'w', 'd', 's', 'a' to move helicopter around, land it on next airstrip without being shot down
 *Initial State:*
 ![](README/screen.png)
 
