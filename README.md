@@ -1,14 +1,9 @@
-### Simple 2D game using C/C++ for Unix based OS (Linux, MacOS)
-#### Requires Lua and SDL(mixer, ttf and image) installed on your platform
-##### If you have it installed, follow simple steps:
-##### 1) Download 2d-game directory
-##### 2) Move to directory in cmd and type: "make" - to compile all the files.
-##### 3) Type "make run" - to run the game.
+### Simple 2D game using C/C++ for Unix based OS using Lua and Simple DirectMedia Layer
+#### The project was created in order to practice theoretical knowledge in Object Oriented Design
 
-##### 4) Use 'w', 'd', 's', 'a' to move helicopter around, land it on next airstrip without being shot down
 *Initial State:*
 ![](README/screen.png)
 
-*Moving to next airstrip:*
+*Moving to next airstrip without being shot:*
 ![](README/moving.png)
 
